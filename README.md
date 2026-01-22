@@ -12,7 +12,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 <div align="center">
   
-[![Blog](https://img.shields.io/badge/Blog-FF6B6B?style=for-the-badge&logo=medium&logoColor=white)](https://blog.streetartist.top/)
+[![Blog](https://img.shields.io/badge/Blog-FF6B6B?style=for-the-badge&logo=medium&logoColor=white)](https://www.streetartist.top/)
 
 </div>
 
